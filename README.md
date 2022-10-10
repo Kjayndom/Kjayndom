@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kijie
-- 👀 I’m interested in becoming a Software Developer
+- 👀 I’m a budding Software Developer
 - 🌱 I’m currently learning Front End Development
 - I can code comfortably in Javascript and Python at an Intermediate Level
 - 💞️ I’m looking to collaborate on beginner-friendly web development projects or javascript coding challenges
